@@ -1,6 +1,0 @@
-hello git
-second
-third -- mybranch1
-fourth --mybranch1
-some hot fix
-기능1 추가
